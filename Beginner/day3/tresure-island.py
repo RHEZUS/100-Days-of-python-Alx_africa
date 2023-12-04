@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+print("")
 print("Welcome to Treasure island.\nYour Mission is to find the Treasure")
 
 value = input("You are at a cross road. Where do you want to go? type \"left\" or \"right\"\n")
